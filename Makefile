@@ -1,2 +1,0 @@
-all:
-	sftp nilefalk.se
